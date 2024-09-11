@@ -1,0 +1,23 @@
+h1{
+    color: black;
+}
+@media (min-width: 576px ){
+    h1{
+        color: rgb(255, 0, 0);
+    }
+}
+@media (min-width: 768px ){
+    h1{
+        color: rgb(255, 0, 242);
+    }
+}
+@media (min-width: 992px ){
+    h1{
+        color: rgb(0, 255, 42);
+    }
+}
+@media (min-width: 1200px ){
+    h1{
+        color: aqua;
+    }
+}
